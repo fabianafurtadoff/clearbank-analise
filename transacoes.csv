@@ -1,0 +1,24 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,4500.00,Salário janeiro,salario
+2,2026-01-09,CLI002,debito,320.45,Supermercado,compra
+3,2026-01-16,CLI003,debito,89.90,Internet residencial,conta
+4,2026-01-28,CLI004,credito,12500.00,Resgate de investimento,investimento
+5,2026-02-05,CLI001,credito,4500.00,Salário fevereiro,salario
+6,2026-02-08,CLI002,debito,780.00,Aluguel fevereiro,moradia
+7,2026-02-14,CLI003,debito,210.30,Conta de energia,conta
+8,2026-02-23,CLI004,debito,149.99,Curso online,educacao
+9,2026-03-05,CLI001,credito,4500.00,Salário março,salario
+10,2026-03-11,CLI002,debito,410.25,Compras do mês,compra
+11,2026-03-18,CLI003,credito,17500.00,Transferência recebida,transferencia
+12,2026-03-27,CLI004,debito,1200.00,Passagens aéreas,viagem
+13,2026-04-05,CLI001,credito,4600.00,Salário abril,salario
+14,2026-04-10,CLI002,debito,230.10,Farmácia,saude
+15,2026-04-17,CLI003,debito,99.90,Streaming,assinatura
+16,2026-04-25,CLI004,debito,650.00,Aluguel de equipamento,servico
+abc,2026-01-30,CLI005,debito,75.00,Identificador inválido,compra
+18,2026-02-30,CLI005,debito,90.00,Data inexistente,compra
+19,2026-03-22,,debito,200.00,Cliente ausente,transferencia
+20,2026-03-24,CLI005,estorno,150.00,Tipo inválido,ajuste
+21,2026-04-02,CLI005,debito,valor_invalido,Valor não numérico,compra
+22,2026-04-09,CLI005,debito,-50.00,Valor negativo,compra
+1,2026-04-30,CLI005,credito,800.00,Identificador duplicado,transferencia
